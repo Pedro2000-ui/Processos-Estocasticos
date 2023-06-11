@@ -586,7 +586,7 @@ Tempo de Sistema: 00:08
 ```
 
 Note que para 1 funcionário por posto, o tempo médio e máximo são maiores, e apresentam uma alta nos valores após as 19h onde a incidência de chegadas de pedidos é maior.
-Quando colocamos 2 funcionários por posto o tempo máximo reduz mais que 50% e temos um tempo médio de sistema bem menor também.
+Quando colocamos 2 funcionários por posto o tempo máximo reduz mais que 50% e temos um tempo médio de sistema bem menor também. Sendo uma solução viável para o problema de "reduzir em até 30% o tempo máximo de espera".
 
 
 
